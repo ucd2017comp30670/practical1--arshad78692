@@ -7,6 +7,7 @@ setup(name="systeminfo",
       author="Aonghus Lawlor",
       author_email="aonghus.lawlor@ucd.ie",
       licence="GPL3",
+      install_requires=['psutil'],
       packages=['systeminfo'],
       entry_points={
         'console_scripts':['comp30670_systeminfo=systeminfo.main:main']
