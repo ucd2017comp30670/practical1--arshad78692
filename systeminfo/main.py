@@ -1,7 +1,7 @@
 '''
 Created on 22 Jan 2017
 
-@author: aonghus
+@author: arsahd
 '''
 import platform
 
